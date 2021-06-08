@@ -1,0 +1,38 @@
+h1{
+    color: hotpink;
+border-bottom: dotted 10px purple;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.job-title{
+color: gray;
+font-weight: bold;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19.2px;
+}
+
+#website{
+    color: orangered;
+}
+#website:hover{
+    color: green;
+}
+#mail{
+    color: rgb(146, 192, 82);
+}
+#mail:hover{
+    color: green;
+}
+
+ul{
+    border:solid 5px purple;
+    padding:35px;
+    background-color: #eeeeee;
+}
+li{
+    line-height: 30x;
+    padding: 2px;
+}
