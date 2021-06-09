@@ -28,7 +28,7 @@ li {
 }
 
 /*
-sub challenge
+sub challenge(to make 1st box twice the size)
 li:nth-child(1)
 {
     flex: 2;
